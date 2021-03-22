@@ -28,11 +28,5 @@
       "id": 5,
       "title": "Mango",
       "thumbnailUrl": "https://images.pexels.com/photos/5217960/pexels-photo-5217960.jpeg?cs=srgb&dl=pexels-anna-shvets-5217960.jpg&fm=jpg"
-    },
-    {
-      "precio": 150,
-      "id": 6,
-      "title": "Chela",
-      "thumbnailUrl": "https://images.pexels.com/photos/667986/pexels-photo-667986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ]
