@@ -1,4 +1,5 @@
-[
+{
+    "cards-content": [
     {
       "precio": 500,
       "id": 1,
@@ -30,3 +31,4 @@
       "thumbnailUrl": "https://images.pexels.com/photos/5217960/pexels-photo-5217960.jpeg?cs=srgb&dl=pexels-anna-shvets-5217960.jpg&fm=jpg"
     }
   ]
+}
